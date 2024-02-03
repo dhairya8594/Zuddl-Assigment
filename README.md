@@ -1,4 +1,10 @@
 Deployed link:- https://curious-lolly-06cfdb.netlify.app/
+
+Questions:-
+1If you want to change stage names and have those changes impact the tasks stored under each stage, you'll need a system where renaming a stage also updates the task storage associated with that stage. It's like ensuring that when you change a stage's name, it's reflected consistently in the tasks linked to that stage.
+
+2
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

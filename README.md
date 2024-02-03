@@ -2,9 +2,11 @@ Deployed link:- https://curious-lolly-06cfdb.netlify.app/
 
 Questions:-
 
-1 If you want to change stage names and have those changes impact the tasks stored under each stage, you'll need a system where renaming a stage also updates the task storage associated with that stage. It's like ensuring that when you change a stage's name, it's reflected consistently in the tasks linked to that stage.
+1. If you want to change stage names and have those changes impact the tasks stored under each stage, you'll need a system where renaming a stage also updates the task storage associated with that stage. It's like ensuring that when you change a stage's name, it's reflected consistently in the tasks linked to that stage.
 
-2
+2. Error handling will done through try/catch block for better exception handling. log the error in console statements at perticular line to handle the error and troubleshooting and get to know the flow of program.
+
+3. To handle errors better, use try/catch blocks in your code. If an error occurs, log it in the console at the relevant line to understand and troubleshoot the program flow.
 
 # Getting Started with Create React App
 
